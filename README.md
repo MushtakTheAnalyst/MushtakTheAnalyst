@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 Welcome to my GitHub profile! I'm an Accountant and Tax Analyst with a robust background in data analysis with Excel and Power BI, driven by a keen interest in uncovering insights from data. With over eight years of experience using MS Excel for financial and tax data, I recently expanded my expertise by completing the Google Data Analytics Professional Certificate. This certification has equipped me with skills in Excel, Tableau, SQL, and R programming.
 
