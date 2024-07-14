@@ -7,4 +7,4 @@ I am fascinated by the potential of data to reveal patterns and inform strategic
 As I transition into a full-time Data Analyst role, I am excited to collaborate on projects that push the boundaries of data analysis and contribute to innovative solutions. Let's connect and explore the limitless possibilities of data together!
 
 
-🏢 Connect with me on LinkedIn ➡︎ www.linkedin.com/in/mushtakhassan
+🏢 Connect with me on LinkedIn ➡︎ <a href=”https://www.linkedin.com/in/mushtakhassan/"><img align=”left” src=”https://raw.githubusercontent.com/mushtaktheanalyst/mushtaktheanalyst/main/images/linkedin.svg" alt=”Mushtak Hassan | LinkedIn” width=”21px”/></a>
